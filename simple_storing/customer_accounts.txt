@@ -1,2 +1,0 @@
-"CUSTOMER", "13c4972a-5ffd-432a-ba2f-0dbe9ba67c60", "test@test.com", "Test Account", "3441df0babc2a2dda551d7cd39fb235bc4e09cd1e4556bf261bb49188f548348"
-"CUSTOMER", "344274f9-9051-4ddf-92ac-9cc3eda8c872", "testing@bluspring.xyz", "Naz Testing", "98c201c69e8ea6681b4dfe19b2ea793fe8c68766fb349655dffee483bb201f4c"
