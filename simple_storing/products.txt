@@ -1,0 +1,2 @@
+"43c1de20-6b35-400f-bdbd-0f254ef117ae", "01234567899", "Test Product 2", "Description stuff yes and with a long one at that too probably idk how long I can go or speak for but this is just an incredibly long description, maybe it can go longer, oh yeah also this is \"testing\" my serialization code too lmao.", "420.69", "20", "0.0", "SPORTS"
+"43c1de20-6b35-400f-bdbd-0f254ef117ae", "0123456789", "Test Product", "Description stuff yes yes", "69.42", "0", "0.0", "LIFESTYLE"
